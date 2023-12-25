@@ -7,13 +7,13 @@
     </p>
 
   ***IN THIS PROJECT I TRY TO COVER BASIC OF BANK MANAGMENT SYSTEM****
-  #1 
-  #2
-  #3
-  #4
-  #5
-  #6
-  #7
-  #8
 
+##  Press 1: To Check Balance."
+##    Press 2: To Withdraw Amount."
+ ##   Press 3: To Fast Cash."
+  ##  Press 4: To Deposit Amount
+  ##  Press 5: LogOut.
+  ### Press 6: Exit
+
+  
 a compleat bank managment system project using c++ by wasi tech also my first project in c++
