@@ -7,7 +7,7 @@
     </p>
 
   ***IN THIS PROJECT I TRY TO COVER BASIC OF BANK MANAGMENT SYSTEM****
-
+ ##  MAIN FUNCATION
 ##  Press 1: To Check Balance."
 ##    Press 2: To Withdraw Amount."
  ##   Press 3: To Fast Cash."
